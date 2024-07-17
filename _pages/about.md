@@ -11,17 +11,17 @@ I am a Master's Student and a Research Assistant at the [Istanbul Technical Univ
 
 Research
 ======
-* **[epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition]**
+* **$\epsilon$-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**
 	* **Batuhan Cengiz**, Mert Gulsen, Yusuf H. Sahin, Gozde Unal
 	* FG, 2024
 	* [Paper](https://arxiv.org/pdf/2403.06661), [Code](https://github.com/batuceng/e-mesh-attack)
 
-* **[PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification]**
+* **PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification**
 	* Mert Gulsen, **Batuhan Cengiz**, Yusuf H. Sahin, Gozde Unal
 	* Arxiv, 2024
 	* [Paper](https://arxiv.org/pdf/2403.06698), [Code](https://github.com/batuceng/diffusion-layer-robustness-pc)
 
-* **[3D U-NetR: Low Dose Computed Tomography Reconstruction via Deep Learning and 3 Dimensional Convolutions]**
+* **3D U-NetR: Low Dose Computed Tomography Reconstruction via Deep Learning and 3 Dimensional Convolutions**
 	* Doga Gunduzalp, **Batuhan Cengiz**, Mehmet Ozan Unal, Isa Yildirim
 	* Arxiv, 2021
 	* [Paper](https://arxiv.org/pdf/2105.14130), [Code](https://github.com/batuceng/3D_UNetR)

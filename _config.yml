@@ -21,7 +21,7 @@ repository               : "batuceng/batuceng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "batu_photo.png"
+  avatar           : "batu-photo.png"
   name             : "Batuhan Cengiz"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc. Student / Research Assistant"
