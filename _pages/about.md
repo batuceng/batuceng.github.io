@@ -58,7 +58,7 @@ Welcome to my homepage! My name is Batuhan Cengiz. I am a Master's Student and a
     </div>
   </li>
   <li class="research-item">
-    <img src="../images/3dunetr-mainfig.png" alt="Research Image 3", style="margin-top:35px;">
+    <img src="../images/3dunetr-mainfig.png" alt="Research Image 3">
     <div>
       <b>3D U-NetR: Low Dose Computed Tomography Reconstruction via Deep Learning and 3 Dimensional Convolutions</b>
       <span>
