@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Hello there!"
+title: "Hello there! 🖐️"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hello there! 🖐️
 
 Welcome to my homepage! My name is Batuhan Cengiz. I am a Master's Student and a Research Assistant at the [Istanbul Technical University](https://ituvisionlab.github.io/), supervised by [Gozde Unal](https://gozde-unal.github.io/). I hace received my Bachelor's also from Istanbul Technical University. My main research is focused on 3D Vision, robustness, and generative models.
 
