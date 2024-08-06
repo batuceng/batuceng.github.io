@@ -40,7 +40,7 @@ Welcome to my homepage! My name is Batuhan Cengiz. I am a Master's Student and a
     <div>
       <b>&epsilon;-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition</b>
       <span>
-        Batuhan Cengiz, Mert Gulsen, Yusuf H. Sahin, Gozde Unal<br>
+         <span style="font-weight:bold">Batuhan Cengiz</span>, Mert Gulsen, Yusuf H. Sahin, Gozde Unal<br>
         IEEE International Conference on Automatic Face and Gesture Recognition, 2024<br>
         <a href="https://arxiv.org/pdf/2403.06661">Paper</a>, <a href="https://github.com/batuceng/e-mesh-attack">Code</a>
       </span>
@@ -51,7 +51,7 @@ Welcome to my homepage! My name is Batuhan Cengiz. I am a Master's Student and a
     <div>
       <b>PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification</b>
       <span>
-        Mert Gulsen, Batuhan Cengiz, Yusuf H. Sahin, Gozde Unal<br>
+        Mert Gulsen, <span style="font-weight:bold">Batuhan Cengiz</span>, Yusuf H. Sahin, Gozde Unal<br>
         Arxiv (Accepted at IEEE ICIP), 2024<br>
         <a href="https://arxiv.org/pdf/2403.06698">Paper</a>, <a href="https://github.com/batuceng/diffusion-layer-robustness-pc">Code</a>
       </span>
@@ -62,7 +62,7 @@ Welcome to my homepage! My name is Batuhan Cengiz. I am a Master's Student and a
     <div>
       <b>3D U-NetR: Low Dose Computed Tomography Reconstruction via Deep Learning and 3 Dimensional Convolutions</b>
       <span>
-        Doga Gunduzalp*, Batuhan Cengiz*, Mehmet Ozan Unal, Isa Yildirim<br>
+        Doga Gunduzalp*,  <span style="font-weight:bold">Batuhan Cengiz</span>*, Mehmet Ozan Unal, Isa Yildirim<br>
         Arxiv, 2021<br>
         *Denotes Equal Contribution<br>
         <a href="https://arxiv.org/pdf/2105.14130">Paper</a>, <a href="https://github.com/batuceng/3D_UNetR">Code</a>
