@@ -1,3 +1,13 @@
+# Welcome
+
+This the repository for my personal webpage. It is a fork of [Academic Pages](https://github.com/academicpages/academicpages.github.io). You can find the original readme file below. \
+Also please check out [My Personal Website](batuceng.github.io)!
+
+
+. \
+. \
+. 
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
