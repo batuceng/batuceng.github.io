@@ -7,11 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is Batuhan Cengiz. I am a PhD Student and a Research Assistant at the [Istanbul Technical University](https://ituvisionlab.github.io/), supervised by [Gozde Unal](https://gozde-unal.github.io/). I have received my Bachelor's and Master's also from Istanbul Technical University. My main research is focused on 3D Vision, robustness, and generative models.
-
-## Research
-
 <style>
+  /* Background gif styling */
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background: url('../files/xor.gif') center center fixed;
+    background-size: cover;
+    opacity: 0.1; /* Adjust transparency level (0.0 to 1.0) */
+    pointer-events: none;
+  }
+
+  /* Make page content background slightly transparent */
+  #main {
+    background-color: rgba(255, 255, 255, 0.95); /* Adjust last value for content background transparency */
+  }
+
+  /* Existing research styles */
   .research-item {
     display: flex;
     align-items: flex-start;
@@ -70,6 +87,10 @@ Welcome to my homepage! My name is Batuhan Cengiz. I am a PhD Student and a Rese
     }
   }
 </style>
+
+Welcome to my homepage! My name is Batuhan Cengiz. I am a PhD Student and a Research Assistant at the [Istanbul Technical University](https://ituvisionlab.github.io/), supervised by [Gozde Unal](https://gozde-unal.github.io/). I have received my Bachelor's and Master's also from Istanbul Technical University. My main research is focused on 3D Vision, robustness, and generative models.
+
+## Research
 
 <ul>
   <li class="research-item">
