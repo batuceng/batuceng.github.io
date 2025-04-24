@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is Batuhan Cengiz. I am a Master's Student and a Research Assistant at the [Istanbul Technical University](https://ituvisionlab.github.io/), supervised by [Gozde Unal](https://gozde-unal.github.io/). I have received my Bachelor's also from Istanbul Technical University. My main research is focused on 3D Vision, robustness, and generative models.
+Welcome to my homepage! My name is Batuhan Cengiz. I am a PhD Student and a Research Assistant at the [Istanbul Technical University](https://ituvisionlab.github.io/), supervised by [Gozde Unal](https://gozde-unal.github.io/). I have received my Bachelor's and Master's also from Istanbul Technical University. My main research is focused on 3D Vision, robustness, and generative models.
 
 ## Research
 
@@ -15,22 +15,59 @@ Welcome to my homepage! My name is Batuhan Cengiz. I am a Master's Student and a
   .research-item {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
+    flex-direction: row;
+    gap: 20px;
   }
   .research-item img {
     flex: 0 0 20%;
     max-width: 20%;
-    margin-right: 15px;
+    height: auto;
+    border-radius: 4px;
+    object-fit: cover;
   }
   .research-item div {
     flex: 1;
   }
   .research-item b {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
+    font-size: 1.1em;
+    line-height: 1.4;
   }
   .research-item span {
-    font-size: 0.9em;
+    font-size: 0.95em;
+    line-height: 1.6;
+  }
+
+  /* Responsive styles */
+  @media screen and (max-width: 768px) {
+    .research-item {
+      flex-direction: column;
+    }
+    .research-item img {
+      flex: 0 0 100%;
+      max-width: 100%;
+      margin-bottom: 15px;
+    }
+    .research-item b {
+      font-size: 1em;
+    }
+    .research-item span {
+      font-size: 0.9em;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .research-item {
+      margin-bottom: 25px;
+    }
+    .research-item b {
+      font-size: 0.95em;
+    }
+    .research-item span {
+      font-size: 0.85em;
+    }
   }
 </style>
 
